@@ -5,6 +5,7 @@ This is same as [DisNotify for Node.js](https://github.com/MincoMK/DisNotify). I
 1. Simply, add this code in your `<head>` tag.
 ```html
 <script src="https://www.minco.kro.kr/apis/DisNotify/index.js"></script>
+```
 2. Done!
 
 ## Future Updates
